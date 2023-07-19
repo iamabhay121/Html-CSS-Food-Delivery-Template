@@ -123,7 +123,7 @@
       right: 0;
       left: 0;
       text-align: center;
-      height: 100vh;
+      
     }
   
     .menu li {
@@ -162,7 +162,6 @@
   
   .container {
     width: 100%;
-    height: 140vh;
   }
   
   
@@ -175,8 +174,8 @@
   
   .container-text {
     position: absolute;
-    top: 22%;
-    left: 5%;
+    top: 40%;
+    left: 10%;
     background-color: rgba(241, 110, 132, 0.7);
     width: 45%;
     color: white;
@@ -267,7 +266,6 @@
   footer {
     background-image: linear-gradient(to right, #ff85a8, #ffcd68);
     width: 100%;
-    height: 120vh;
    
   }
   
@@ -374,6 +372,7 @@
   @media (max-width: 480px) {
     .container2 .center {
       font-size: 10px;
+
     }
   
     .cards {
